@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Gallery from "./gallery";
+import Gallery from "./spotifyLogin";
 
 export default function HomePage() {
   return (
